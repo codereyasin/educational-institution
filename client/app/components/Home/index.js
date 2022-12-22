@@ -1,0 +1,6 @@
+export { default as Contact } from "./Contact"
+export { default as Map } from "./Map"
+export { default as Notice } from "./Notice"
+export { default as ParTicles } from "./Particels"
+export { default as  TeacherList} from "./TeacherList"
+export { default as  Hero} from "./Hero/Hero"
